@@ -1,0 +1,8 @@
+ pytest
+ selenium
+ pytest-selenium
+ termcolor
+ allure-python-commons
+ allure-pytest
+ uuid
+ urllib3
